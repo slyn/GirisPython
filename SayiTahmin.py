@@ -1,5 +1,4 @@
 import random
-global tahmin_sayisi
 
 
 def tahmin_et():

@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 '''Dosya acma formati 
 f=open('Dosya adi','dosya acma modu')

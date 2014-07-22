@@ -1,4 +1,4 @@
-#SAYI MI
+# SAYI MI
 # ',' ve '.' float sayilar icin
 numbers = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, '.', ','}
 
@@ -13,9 +13,7 @@ def is_digit(text):
             return False
     return True
 
-
-
-if is_digit('156,4'):
+if is_digit('156, 4'):
     print('SAYI')
 else:
     print('TEXT')

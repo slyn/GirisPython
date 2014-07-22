@@ -1,5 +1,5 @@
 
-#url adresi girilen sitenin kaynak kodu ismi girilen dosyaya kaydedilir
+# url adresi girilen sitenin kaynak kodu ismi girilen dosyaya kaydedilir
 from urllib.request import urlretrieve
 
 

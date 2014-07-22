@@ -15,7 +15,7 @@ def tahmin_baslasin():
     sayi = random.randint(0, 100)
     # print(sayi)
     while a:
-        print('0 ile 100 Arasinda bir tahmin yapin' )
+        print('0 ile 100 Arasinda bir tahmin yapin')
         b = tahmin_et()
         if b == sayi:
             print('Sayiyi Dogru Tahmin ettiniz')

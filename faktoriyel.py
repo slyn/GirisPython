@@ -8,4 +8,3 @@ def factorial(n):
 
 
 print('Result is ', factorial(5))
-
